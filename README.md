@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 ## Overview
-### This analysis is designed to examine various supervised machine learning algorithms and evaluate their performance in predicting credit card risk. Using a credit card dataset from LendingClub with unbalanced classes (low-risk greatly outnumbers high-risk loans), oversampling, undersampling, and combined over-under sampling approaches will be utilized and compared.
+### This analysis is designed to examine various supervised machine learning algorithms and evaluate their performance in predicting credit card risk. Using a credit card dataset from LendingClub with unbalanced classes (low-risk greatly outnumbers high-risk loans), oversampling, undersampling, combination sampling, and ensemble learning approaches will be utilized and compared.
 
 ## Resources
 - Dataset: LoanStats_2019Q1.csv (LendingClub)
